@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 7f2fbad0a61c16b4bb6766e269dfa0b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PeaShooter_backleaf
+  - first:
+      213: 21300002
+    second: GatlingPea_blink2
+  - first:
+      213: 21300004
+    second: GatlingPea_barrel
+  - first:
+      213: 21300006
+    second: kanqingkuang
+  - first:
+      213: 21300008
+    second: CherryBomb_left1
+  - first:
+      213: 21300010
+    second: PeaShooter_frontleaf_righttip
+  - first:
+      213: 21300012
+    second: GatlingPea_barrel
+  - first:
+      213: 21300014
+    second: PeaShooter_frontleaf
+  - first:
+      213: 21300016
+    second: GatlingPea_blink1
+  - first:
+      213: 21300018
+    second: PeaShooter_backleaf_righttip
+  - first:
+      213: 21300020
+    second: PeaShooter_stalk_top
+  - first:
+      213: 21300022
+    second: PeaShooter_backleaf_lefttip
+  - first:
+      213: 21300024
+    second: GatlingPea_helmet
+  - first:
+      213: 21300026
+    second: GatlingPea_mouth
+  - first:
+      213: 21300028
+    second: GatlingPea_barrel
+  - first:
+      213: 21300030
+    second: PeaShooter_eyebrow
+  - first:
+      213: 21300032
+    second: GatlingPea_barrel
+  - first:
+      213: 21300034
+    second: GatlingPea_mouth_overlay
+  - first:
+      213: 21300036
+    second: PeaShooter_stalk_bottom
+  - first:
+      213: 21300038
+    second: PeaShooter_frontleaf_lefttip
+  - first:
+      213: 21300040
+    second: GatlingPea_head
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PeaShooter_backleaf
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 846
+        width: 184
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7177a88ddd607d54a82130f5b19b7a23
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatlingPea_blink2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 375
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8983eee39122b6248bfe0710ebfff419
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatlingPea_barrel
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 899
+        width: 169
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518f0a72630879043bb4496967b7003f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kanqingkuang
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 785
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e53a9b1d379c40419c8d2ed79faa07f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CherryBomb_left1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 179
+        width: 213
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0f965c35803ab438c26b776ef16c6a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_frontleaf_righttip
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 846
+        width: 62
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e49af9ba67045049893377bf2790d84
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatlingPea_barrel_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 618
+        width: 169
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68fa2434bb78834188512c306b38d02
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_frontleaf
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 4
+        width: 280
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24b5239044f4c54cb9bca0b532e2cd7
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatlingPea_blink1
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 479
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1bb436be9f8b24d887316677255f10
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_backleaf_righttip
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 979
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85f20f3da970264288777db6844e5d7
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_stalk_top
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 945
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53967366eaa00245afa070ee2f5c86c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_backleaf_lefttip
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 732
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0142e14681111ef498fb08c866185a18
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatlingPea_helmet
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 350
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083f1445c9a89c14eb8eea469e7ebca6
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatlingPea_mouth
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 656
+        width: 204
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcb4f5840e63df4a921823621915f13
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatlingPea_barrel_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 899
+        width: 169
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1819a6a06bf21004483760bbd806baa9
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_eyebrow
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 945
+        width: 107
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511d8871b5b9a8c4ab7ea70f5ea159b1
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatlingPea_barrel_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 732
+        width: 169
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1809ee1af45ab04283e2ac72c092583
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatlingPea_mouth_overlay
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 375
+        width: 148
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf8b4c0e778dd144a228789028c5582
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_stalk_bottom
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 618
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59811ca93fa10684f874708747b85fb7
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_frontleaf_lefttip
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 656
+        width: 92
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37054d8a90e160042aa9b49a367479dc
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GatlingPea_head
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 385
+        width: 292
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7ed3612b6fdf149a79aff5986b7be1
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b2c768c0d1b7dc443ab8887375865af1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CherryBomb_left1: 21300008
+      GatlingPea_barrel: 21300004
+      GatlingPea_blink1: 21300016
+      GatlingPea_blink2: 21300002
+      GatlingPea_head: 21300040
+      GatlingPea_helmet: 21300024
+      GatlingPea_mouth: 21300026
+      GatlingPea_mouth_overlay: 21300034
+      PeaShooter_backleaf: 21300000
+      PeaShooter_backleaf_lefttip: 21300022
+      PeaShooter_backleaf_righttip: 21300018
+      PeaShooter_eyebrow: 21300030
+      PeaShooter_frontleaf: 21300014
+      PeaShooter_frontleaf_lefttip: 21300038
+      PeaShooter_frontleaf_righttip: 21300010
+      PeaShooter_stalk_bottom: 21300036
+      PeaShooter_stalk_top: 21300020
+      kanqingkuang: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

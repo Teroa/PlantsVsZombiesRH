@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: 25392b8911f21764a8e3a99692d70c85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ThreePeater_blink2
+  - first:
+      213: 21300002
+    second: ThreePeater_headleaf1
+  - first:
+      213: 21300004
+    second: ThreePeater_headleaf3
+  - first:
+      213: 21300006
+    second: ThreePeater_headleaf2
+  - first:
+      213: 21300008
+    second: ThreePeater_blink2
+  - first:
+      213: 21300010
+    second: ThreePeater_stem2
+  - first:
+      213: 21300012
+    second: PeaShooter_frontleaf_lefttip
+  - first:
+      213: 21300014
+    second: ThreePeater_headleaf1
+  - first:
+      213: 21300016
+    second: ThreePeater_blink1
+  - first:
+      213: 21300018
+    second: ThreePeater_head
+  - first:
+      213: 21300020
+    second: ThreePeater_blink2
+  - first:
+      213: 21300022
+    second: ThreePeater_blink1
+  - first:
+      213: 21300024
+    second: ThreePeater_mouth
+  - first:
+      213: 21300026
+    second: ThreePeater_headleaf2
+  - first:
+      213: 21300028
+    second: PeaShooter_frontleaf_righttip
+  - first:
+      213: 21300030
+    second: PeaShooter_backleaf_lefttip
+  - first:
+      213: 21300032
+    second: PeaShooter_frontleaf
+  - first:
+      213: 21300034
+    second: ThreePeater_mouth
+  - first:
+      213: 21300036
+    second: ThreePeater_head
+  - first:
+      213: 21300038
+    second: ThreePeater_stem3
+  - first:
+      213: 21300040
+    second: ThreePeater_stem1
+  - first:
+      213: 21300042
+    second: ThreePeater_mouth
+  - first:
+      213: 21300044
+    second: ThreePeater_blink1
+  - first:
+      213: 21300046
+    second: ThreePeater_head
+  - first:
+      213: 21300048
+    second: PeaShooter_backleaf
+  - first:
+      213: 21300050
+    second: ThreePeater_headleaf2
+  - first:
+      213: 21300052
+    second: PeaShooter_backleaf_righttip
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThreePeater_blink2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 254
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5287b3fe862ed344d924a3e285a05d09
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_headleaf1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 590
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759692c083dc8584b8f05a2b6608d9b0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_headleaf3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 590
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc84c45cfb02a5747998bd291b55ef95
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_headleaf2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 53
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0f835697dfb4b43a885143b25f6030
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_blink2_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 972
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bd189a08f1830489e2d8ca2e57f58c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_stem2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 465
+        width: 138
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785900e6b4e647349ad40658342ae29e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_frontleaf_lefttip
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 702
+        width: 92
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2367c303c292014898cca70232475f0
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_headleaf1_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 648
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b3d98defcf1c4b96632d303b2edf5
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_blink1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 392
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b3aa2e98a8bd245b8b747e5f475aa9
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_head
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 465
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7934d87405e1914c8fa6f909268aec3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_blink2_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 346
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08d81db6e6836246b76134430bb3c29
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_blink1_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 648
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3a439aa88acd648aacf34b6df67492
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_mouth
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 179
+        width: 75
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30fadb45411be54caa2c8fddbaf2724
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_headleaf2_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 366
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8875bacbe7f4b394d8b04c11984c2f4f
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_frontleaf_righttip
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 873
+        width: 62
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8565fee17c507aa4a8f7fc5f1debd02d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_backleaf_lefttip
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 366
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ca6f6e0295f02448653b751e8544ae
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_frontleaf
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 280
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0750e65c2e50664a9d37d2af66d5e62
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_mouth_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 441
+        width: 75
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bade328228053b24d99e4482de445dd3
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_head_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89da50c01c6a364986115d1f2fcb86a
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_stem3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 179
+        width: 163
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1e62b7d88fe7b478cc3f05d621b5a7
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_stem1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 702
+        width: 179
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b316f5f009ff24aa7d40e7330ac1fc
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_mouth_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 254
+        width: 75
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752a42ff090022643931f2b0db80ee95
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_blink1_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 300
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a06fdecacda0746997761576f7672f
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_head_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 129
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfbc32ec0852644da7dfe17232f4eda
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_backleaf
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 873
+        width: 184
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c037932f268641b56eae09e6e7b1c
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreePeater_headleaf2_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 590
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d852a2d6cb96f8f4f8e89ae519dff9f7
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeaShooter_backleaf_righttip
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd8e0e540e19b9408e3c5ac6f2eafab
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 36c9cb2b54a95344f937a6c36d03a9fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PeaShooter_backleaf: 21300048
+      PeaShooter_backleaf_lefttip: 21300030
+      PeaShooter_backleaf_righttip: 21300052
+      PeaShooter_frontleaf: 21300032
+      PeaShooter_frontleaf_lefttip: 21300012
+      PeaShooter_frontleaf_righttip: 21300028
+      ThreePeater_blink1: 21300016
+      ThreePeater_blink2: 21300000
+      ThreePeater_head: 21300018
+      ThreePeater_headleaf1: 21300002
+      ThreePeater_headleaf2: 21300006
+      ThreePeater_headleaf3: 21300004
+      ThreePeater_mouth: 21300024
+      ThreePeater_stem1: 21300040
+      ThreePeater_stem2: 21300010
+      ThreePeater_stem3: 21300038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

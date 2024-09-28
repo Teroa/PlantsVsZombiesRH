@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 5e510d881476c554f8e12365458571e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Zombie_zamboni_1_damage1
+  - first:
+      213: 21300002
+    second: Zombie_head
+  - first:
+      213: 21300004
+    second: Zombie_zambonidriver_innerarm
+  - first:
+      213: 21300006
+    second: Zombie_zamboni_wheel_flat
+  - first:
+      213: 21300008
+    second: Zombie_zambonidriver_body
+  - first:
+      213: 21300010
+    second: Zombie_zambonidriver_shoulder
+  - first:
+      213: 21300012
+    second: Zombie_zamboni_2_damage1
+  - first:
+      213: 21300014
+    second: Zombie_zamboni_1
+  - first:
+      213: 21300016
+    second: Zombie_zambonidriver_upperarm
+  - first:
+      213: 21300018
+    second: Zombie_zamboni_seat
+  - first:
+      213: 21300020
+    second: Zombie_zambonidriver_innerarm_hand
+  - first:
+      213: 21300022
+    second: Zombie_jaw
+  - first:
+      213: 21300024
+    second: Zombie_zamboni_wheel
+  - first:
+      213: 21300026
+    second: Zombie_zamboni_2_damage2
+  - first:
+      213: 21300028
+    second: Zombie_zamboni_2
+  - first:
+      213: 21300030
+    second: Zombie_zamboni_4
+  - first:
+      213: 21300032
+    second: Zombie_zambonidriver_beanie
+  - first:
+      213: 21300034
+    second: Zombie_zambonidriver_outerarm_hand
+  - first:
+      213: 21300036
+    second: Zombie_zambonidriver_lowerarm_outer
+  - first:
+      213: 21300038
+    second: Zombie_zambonidriver_mullet1
+  - first:
+      213: 21300040
+    second: Zombie_zamboni_3
+  - first:
+      213: 21300042
+    second: Zombie_zambonidriver_mullet2
+  - first:
+      213: 21300044
+    second: Zombie_zamboni_1_damage2
+  - first:
+      213: 21300046
+    second: Zombie_zamboni_wheel
+  - first:
+      213: 21300048
+    second: Zombie_zambonidriver_legs
+  - first:
+      213: 21300050
+    second: Zombie_zamboni_wires
+  - first:
+      213: 21300052
+    second: Zombie_zamboni_brush
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_zamboni_1_damage1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 491
+        width: 754
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33406ff9647224145b2578640ee22813
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_head
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1828
+        width: 220
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccf4b3a921fc604695c7a1ce62232f5
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zambonidriver_innerarm
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1828
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dd4159cbac77e4e97b9d25cfd4d617
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_wheel_flat
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1465
+        width: 216
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec666e6571015345a016ae1015d25d1
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zambonidriver_body
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1465
+        width: 275
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363b59d00c37f694e9c42ab1276d3a7c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zambonidriver_shoulder
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1349
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e213ccc14aedc724a9a8f1e467f5d129
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_2_damage1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 612
+        width: 775
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dcc9b231a549b46b1fddd1d39a8f12
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4
+        width: 762
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71709e28270aa3548b38fb79772290c8
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zambonidriver_upperarm
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1945
+        width: 46
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab74e8880a8db5419efe75481878d3b
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_seat
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 491
+        width: 320
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4699dcc3d053248b42bb7f945975fc
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zambonidriver_innerarm_hand
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 491
+        width: 125
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141d14f3b241e564790df6268afecfc0
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_jaw
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 902
+        width: 134
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac75caf362f4b4e8d9038a30eed8ff
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_wheel
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1465
+        width: 216
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffd2ef84bf34e24b8d7f246bc1b0403
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_2_damage2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1220
+        width: 771
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29354f3898c82f2438d771b5624cf472
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 788
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57830a2fa05a53b41b800909315cbfc0
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1465
+        width: 288
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58e1a1cf0b2d5a47a8d7892ef759d08
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zambonidriver_beanie
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1828
+        width: 270
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9d597b3473c7948b941ca77c0e6f55
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zambonidriver_outerarm_hand
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 632
+        width: 112
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391bdaca3e7cb4447ba6d9b3d2a8aa61
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zambonidriver_lowerarm_outer
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1981
+        width: 134
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af972ec2958c74b42a57dec2016b4a05
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zambonidriver_mullet1
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1349
+        width: 134
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749c5b298449d6647bc51cabeef45ec8
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_3
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 978
+        width: 304
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf82f7581e7e4846af77bfb2c66ff16
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zambonidriver_mullet2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1828
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e968e5a570c71964b98fc9346f5d82ee
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_1_damage2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 978
+        width: 737
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b0b5df49e17f4ead9f769a120db33
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_wheel_1
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1465
+        width: 216
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eb0651e150ba24d9e91fe132984406
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zambonidriver_legs
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 4
+        width: 442
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ab8bfbb268388448cdb3ce07dba770
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_wires
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1945
+        width: 46
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad47fd67933d1304f917d0f23a51b1ff
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_zamboni_brush
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 781
+        width: 134
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7a69b514d066b47a886fdff5f91b01
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9a25bdcaca516934ca72d4dae4e66893
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_head: 21300002
+      Zombie_jaw: 21300022
+      Zombie_zamboni_1: 21300014
+      Zombie_zamboni_1_damage1: 21300000
+      Zombie_zamboni_1_damage2: 21300044
+      Zombie_zamboni_2: 21300028
+      Zombie_zamboni_2_damage1: 21300012
+      Zombie_zamboni_2_damage2: 21300026
+      Zombie_zamboni_3: 21300040
+      Zombie_zamboni_4: 21300030
+      Zombie_zamboni_brush: 21300052
+      Zombie_zamboni_seat: 21300018
+      Zombie_zamboni_wheel: 21300024
+      Zombie_zamboni_wheel_flat: 21300006
+      Zombie_zamboni_wires: 21300050
+      Zombie_zambonidriver_beanie: 21300032
+      Zombie_zambonidriver_body: 21300008
+      Zombie_zambonidriver_innerarm: 21300004
+      Zombie_zambonidriver_innerarm_hand: 21300020
+      Zombie_zambonidriver_legs: 21300048
+      Zombie_zambonidriver_lowerarm_outer: 21300036
+      Zombie_zambonidriver_mullet1: 21300038
+      Zombie_zambonidriver_mullet2: 21300042
+      Zombie_zambonidriver_outerarm_hand: 21300034
+      Zombie_zambonidriver_shoulder: 21300010
+      Zombie_zambonidriver_upperarm: 21300016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

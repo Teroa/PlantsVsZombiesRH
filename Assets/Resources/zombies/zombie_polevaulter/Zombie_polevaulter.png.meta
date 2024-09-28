@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 1df1294f23fe2bf4a93d19d580a726a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Zombie_polevaulter_pole
+  - first:
+      213: 21300002
+    second: Zombie_polevaulter_innerarm_upper
+  - first:
+      213: 21300004
+    second: Zombie_polevaulter_innerleg_foot
+  - first:
+      213: 21300006
+    second: Zombie_polevaulter_innerleg_upper
+  - first:
+      213: 21300008
+    second: Zombie_polevaulter_innerarm_lower
+  - first:
+      213: 21300010
+    second: Zombie_polevaulter_innerleg_toe
+  - first:
+      213: 21300012
+    second: Zombie_polevaulter_pole2
+  - first:
+      213: 21300014
+    second: Zombie_polevaulter_outerleg_foot
+  - first:
+      213: 21300016
+    second: Zombie_jaw
+  - first:
+      213: 21300018
+    second: Zombie_polevaulter_outerleg_toe
+  - first:
+      213: 21300020
+    second: Zombie_polevaulter_body1
+  - first:
+      213: 21300022
+    second: Zombie_polevaulter_innerhand
+  - first:
+      213: 21300024
+    second: Zombie_outerarm_hand
+  - first:
+      213: 21300026
+    second: Zombie_polevaulter_innerleg_lower
+  - first:
+      213: 21300028
+    second: Zombie_polevaulter_outerarm_upper
+  - first:
+      213: 21300030
+    second: Zombie_polevaulter_outerleg_upper
+  - first:
+      213: 21300032
+    second: Zombie_polevaulter_outerarm_lower
+  - first:
+      213: 21300034
+    second: Zombie_head
+  - first:
+      213: 21300036
+    second: Zombie_polevaulter_outerleg_lower
+  - first:
+      213: 21300038
+    second: Zombie_polevaulter_hair
+  - first:
+      213: 21300040
+    second: Zombie_polevaulter_body2
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_polevaulter_pole
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 53
+        width: 120
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daccb227ea838248a2434d551c0a41f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_innerarm_upper
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 337
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a4d4bbf8b964d488163e1bf72763d0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_innerleg_foot
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 369
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d183d8401bc0b8479fe180f44991361
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_innerleg_upper
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 169
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9c4c420381d21488f5c6d74bc1eeb0
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_innerarm_lower
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516efabf6acdbe5418ef6c688b57c6c8
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_innerleg_toe
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 311
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6362b9fcfafb136449d77e71d9eaf76b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_pole2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 67
+        width: 84
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e539eca87831b7c4ab741e87f4975770
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_outerleg_foot
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4249ff8b54e65d84a86f06296e316b63
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_jaw
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 395
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a439a31bb8479428592148a55376ed
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_outerleg_toe
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 285
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235bc06265b4bc44abeb62ca80ff4949
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_body1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7309408321b48324194274a252188a2b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_innerhand
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 337
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6111b32b747ffe7478d44caf53a5c89d
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_outerarm_hand
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b83076c92c4774b99bcc2a6d2c21f9
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_innerleg_lower
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 208
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172c4f59761a08f458de345fb453b233
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_outerarm_upper
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 247
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75f761b349876e48a249cf21bef24de
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_outerleg_upper
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 285
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4078d0b0bc68624baa4ab7ba2c4cfff
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_outerarm_lower
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 169
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3ddbc14535a2e4691a76372bcec58c
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_head
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 72
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9836a3d11395746834a125df07a062
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_outerleg_lower
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 247
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29b9187a247fbe4db192716722ddfde
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_hair
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d874bcd71a8938f4b81f14efde706a78
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_polevaulter_body2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aebd54f084971543a86555287d15557
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9cb4504a7b4139d42a63fc9143b1d8c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_head: 21300034
+      Zombie_jaw: 21300016
+      Zombie_outerarm_hand: 21300024
+      Zombie_polevaulter_body1: 21300020
+      Zombie_polevaulter_body2: 21300040
+      Zombie_polevaulter_hair: 21300038
+      Zombie_polevaulter_innerarm_lower: 21300008
+      Zombie_polevaulter_innerarm_upper: 21300002
+      Zombie_polevaulter_innerhand: 21300022
+      Zombie_polevaulter_innerleg_foot: 21300004
+      Zombie_polevaulter_innerleg_lower: 21300026
+      Zombie_polevaulter_innerleg_toe: 21300010
+      Zombie_polevaulter_innerleg_upper: 21300006
+      Zombie_polevaulter_outerarm_lower: 21300032
+      Zombie_polevaulter_outerarm_upper: 21300028
+      Zombie_polevaulter_outerleg_foot: 21300014
+      Zombie_polevaulter_outerleg_lower: 21300036
+      Zombie_polevaulter_outerleg_toe: 21300018
+      Zombie_polevaulter_outerleg_upper: 21300030
+      Zombie_polevaulter_pole: 21300000
+      Zombie_polevaulter_pole2: 21300012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

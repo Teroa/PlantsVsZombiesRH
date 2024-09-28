@@ -1,0 +1,789 @@
+fileFormatVersion: 2
+guid: b6cb48a3f36faa440944d074b7c0ab32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Zombie_paper_lowerbody2
+  - first:
+      213: 21300002
+    second: Zombie_paper_hands
+  - first:
+      213: 21300004
+    second: Zombie_paper_leftarm_upper2
+  - first:
+      213: 21300006
+    second: Zombie_paper_hands2
+  - first:
+      213: 21300008
+    second: Zombie_paper_leftarm_upper
+  - first:
+      213: 21300010
+    second: Zombie_paper_paper3
+  - first:
+      213: 21300012
+    second: Zombie_paper_rightarm_upper
+  - first:
+      213: 21300014
+    second: Zombie_hair
+  - first:
+      213: 21300016
+    second: Zombie_paper_leftleg_lower
+  - first:
+      213: 21300018
+    second: Zombie_paper_rightarm_lower
+  - first:
+      213: 21300020
+    second: Zombie_paper_madhead
+  - first:
+      213: 21300022
+    second: Zombie_paper_rightfoot
+  - first:
+      213: 21300024
+    second: Zombie_paper_rightleg_lower
+  - first:
+      213: 21300026
+    second: Zombie_paper_rightleg_upper
+  - first:
+      213: 21300028
+    second: Zombie_paper_hairpiece
+  - first:
+      213: 21300030
+    second: Zombie_paper_leftarm_lower
+  - first:
+      213: 21300032
+    second: Zombie_paper_glasses
+  - first:
+      213: 21300034
+    second: Zombie_paper_head_look
+  - first:
+      213: 21300036
+    second: Zombie_paper_body
+  - first:
+      213: 21300038
+    second: Zombie_paper_hands3
+  - first:
+      213: 21300040
+    second: Zombie_paper_paper2
+  - first:
+      213: 21300042
+    second: Zombie_paper_paper1
+  - first:
+      213: 21300044
+    second: Zombie_paper_leftfoot
+  - first:
+      213: 21300046
+    second: Zombie_jaw
+  - first:
+      213: 21300048
+    second: Zombie_paper_leftleg_upper
+  - first:
+      213: 21300050
+    second: Zombie_head
+  - first:
+      213: 21300052
+    second: Zombie_paper_lowerbody1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_paper_lowerbody2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1986
+        width: 204
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e4281712468b048a66b677e73913fc
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_hands
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 4
+        width: 342
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d37f2eaa397f17428ac5da34488aedd
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_leftarm_upper2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 803
+        width: 146
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff0653e648f9be46a16f916bf91e80f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_hands2
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47bb8c4b0b1de042898f0385f86b548
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_leftarm_upper
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 645
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a8d0011ffca5445bd05581b81ffa93
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_paper3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 329
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3012bf00bd33c7d46b4566dd6c51bc74
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_rightarm_upper
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 491
+        width: 138
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2ca76f0588dcc4fb4d3b99faf27982
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_hair
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 354
+        width: 259
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bced0874f3e4c44d899bbb49670dfd3
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_leftleg_lower
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1362
+        width: 96
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5f058db0fe9894e80e4933c8a41aaf
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_rightarm_lower
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 645
+        width: 175
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2608c8174d9844b961c1971a0cf29a
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_madhead
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1778
+        width: 221
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d272cbca32811e54b89ba7e3b8dcf1d3
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_rightfoot
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 778
+        width: 154
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f842f2047354d94098012258b6f4c68
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_rightleg_lower
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 108
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2767daa8222284e8dac6f0bf4739be
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_rightleg_upper
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 354
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3784c5e7e3fad2240827f959f4155b77
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_hairpiece
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 4
+        width: 217
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7456c4a311cbf943922c68f9c13b63a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_leftarm_lower
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 491
+        width: 196
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a260bcd71bcc4b54e98265155c4abc47
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_glasses
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 220
+        width: 208
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecbd970aa36dbb44af085c07572babc
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_head_look
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1570
+        width: 221
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe1579a9ca3cec4fabc8c0c637742c3
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_body
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1050
+        width: 275
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c090034cf77b4c747b2347755bc42be9
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_hands3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 953
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e237036e9f8604191111dcc7a3ecda
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_paper2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 700
+        width: 317
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a55d0193d35f044a3f51a9395ebe55
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_paper1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 350
+        width: 317
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452acd15f0c6cf341b08536fa48bc843
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_leftfoot
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 108
+        width: 188
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec62d5ba6b26b042ab3771629255f2a
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_jaw
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1069
+        width: 133
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a49539d8d0ce3479420aaa0b05698d
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_leftleg_upper
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 429
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217d6f947410f764fa0cd5c2a1abc176
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_head
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1362
+        width: 221
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112f5b48ecaff644cb095bc889c2db06
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_paper_lowerbody1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 204
+        width: 246
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f80242320f34134aabf57a97d18736c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 67f1b32562bd8cb46a0a5dbffe113944
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_hair: 21300014
+      Zombie_head: 21300050
+      Zombie_jaw: 21300046
+      Zombie_paper_body: 21300036
+      Zombie_paper_glasses: 21300032
+      Zombie_paper_hairpiece: 21300028
+      Zombie_paper_hands: 21300002
+      Zombie_paper_hands2: 21300006
+      Zombie_paper_hands3: 21300038
+      Zombie_paper_head_look: 21300034
+      Zombie_paper_leftarm_lower: 21300030
+      Zombie_paper_leftarm_upper: 21300008
+      Zombie_paper_leftarm_upper2: 21300004
+      Zombie_paper_leftfoot: 21300044
+      Zombie_paper_leftleg_lower: 21300016
+      Zombie_paper_leftleg_upper: 21300048
+      Zombie_paper_lowerbody1: 21300052
+      Zombie_paper_lowerbody2: 21300000
+      Zombie_paper_madhead: 21300020
+      Zombie_paper_paper1: 21300042
+      Zombie_paper_paper2: 21300040
+      Zombie_paper_paper3: 21300010
+      Zombie_paper_rightarm_lower: 21300018
+      Zombie_paper_rightarm_upper: 21300012
+      Zombie_paper_rightfoot: 21300022
+      Zombie_paper_rightleg_lower: 21300024
+      Zombie_paper_rightleg_upper: 21300026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
